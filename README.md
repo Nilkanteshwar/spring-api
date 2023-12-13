@@ -1,7 +1,7 @@
 # spring-api
 created with java 8 .
 
-#here is the mysql code 
+#here is the mysql code .
 create database Quiz;
 USE Quiz;
 
